@@ -1,0 +1,11 @@
+*.iml
+out
+.gradle
+target
+gradle
+build
+gradlew
+*.bat
+.idea
+*.txt
+*.bin
